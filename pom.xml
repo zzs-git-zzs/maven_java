@@ -30,7 +30,7 @@
 	    <artifactId>struts2-core</artifactId>
 	    <version>2.3.16</version>
 	</dependency>
-    
+    <!-- 添加一行。。。。-->
   </dependencies>
 
   <build>
